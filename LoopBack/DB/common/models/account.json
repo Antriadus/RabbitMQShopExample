@@ -1,0 +1,1 @@
+{"name":"Account","plural":"Accounts","base":"PersistedModel","idInjection":true,"options":{"validateUpsert":true},"properties":{"id":{"type":"number","required":true},"EmailAddress":{"type":"string"},"PasswordHash":{"type":"string"},"WantsNewsletter":{"type":"boolean","required":true}},"validations":[],"relations":{},"acls":[],"methods":{}}

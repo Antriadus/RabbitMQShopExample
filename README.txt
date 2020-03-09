@@ -1,0 +1,2 @@
+Aby baza danych zadzia³a³a musisz w ./Loopback/DB uruchomiæ w wierszy poleceñ " node . ". aby to zrobiæ musisz mieæ zainstalowane node.js na komputerze.
+Aby uruchomiæ producentów i/lub konsumentów musisz mieæ zainstalowanie i skonfigurowanie RabbitMQ oraz Erlang. RabbitMQ Managament zazwyczaj na localhost:15672
